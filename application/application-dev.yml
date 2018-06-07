@@ -74,8 +74,8 @@ paascloud:
       expiredMinutes: 120
   mail:
     host: smtp.sina.com
-    username: 'your email address'
-    password: 'your email password'
+    username: 'xinglinglove1029@sina.com'
+    password: 'qwe1029!@#'
     test-connection: false
     properties:
       mail:
@@ -90,7 +90,7 @@ paascloud:
       accessKeyId: 'your aliyun accessKeyId'
       accessKeySecret: 'your aliyun accessKeySecret'
     rocketMq:
-      namesrvAddr: 47.96.173.142:9876
+      namesrvAddr: paascloud-db-mysql:9876
     sms:
       signName: 快乐学习网
       regionId: cn-beijing
