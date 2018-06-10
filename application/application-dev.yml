@@ -14,7 +14,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
-    password: 123456
+    password:  Xk98Ypz9^QoarrO
     type: com.alibaba.druid.pool.DruidDataSource
     initial-size: 10
     min-idle: 10
